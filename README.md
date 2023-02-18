@@ -2,7 +2,7 @@
 
 <img align="left" width="10%" src="https://cas.oslo.no/getfile.php/1321922-1636357433/3_Fellows/Matthew_72.jpg%20%28avatar_list%29.jpg"/>
 
-Welcome to my GitHub page. If you look around you'll see that I've added some repositories to showcase work that I've done for the Department for Education-funded [Data Science Bootcamp](https://blog.hyperiondev.com/wp-content/uploads/2022/10/Data-Science-Syllabus-DfE.pdf) that I will soon complete (God willing). You can also check out [my personal website](https://matthewgotham.github.io/) for more information.
+Welcome to my GitHub page. If you look around you'll see that I've added some repositories and gists to showcase work that I've done for the Department for Education-funded [Data Science Bootcamp](https://blog.hyperiondev.com/wp-content/uploads/2022/10/Data-Science-Syllabus-DfE.pdf) that I will soon complete (God willing). You can also check out [my personal website](https://matthewgotham.github.io/) for more information.
 
 <!--
 **MatthewGotham/MatthewGotham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
