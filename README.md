@@ -1,4 +1,8 @@
-### Hi there 👋
+# Matthew Gotham
+
+<img align="right" width="10%" src="https://cas.oslo.no/getfile.php/1321922-1507295069/z%20Services/UploadService/ctwebform-template-2/Matthew_72.jpg%20%28avatar_list%29.jpg">
+
+Welcome to my website. I am an aspiring data scientist with a background in academic research, specifically in languages and linguistics. Click one of the links on the sidebar to learn more.
 
 <!--
 **MatthewGotham/MatthewGotham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
